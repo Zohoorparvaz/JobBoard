@@ -2,10 +2,8 @@ import './App.css';
 import Jobs from './Components/Jobs';
 
 const mockjobs = [
-  {
-    title: 'Software Engineer',
-    company: 'A'
-  }
+  { jobtitle: 'Software Engineer', company: 'A' },
+  { jobtitle: 'Power Platform Developer', company: 'B' }
 ]
 
 function App() {
